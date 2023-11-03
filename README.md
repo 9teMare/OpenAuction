@@ -7,4 +7,3 @@ Did not follow the outdated example from Homework PDF, instead used the latest S
 Tutorial followed: https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet
 
 Note that `.env` is not included in this repo. Follow the tutorial above if you want to try deploying it yourself.
-```
